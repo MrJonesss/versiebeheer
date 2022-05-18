@@ -6,7 +6,7 @@ namespace program
     {
         static void Main(string[] args)
         {
-            console.writeline("Hello World");
+            console.writeline("Hallo Wereld");
         }
 
     }
